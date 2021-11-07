@@ -1,4 +1,4 @@
-# weather-box-radiation
+## weather-box-radiation ##
 connection rpi with pocket geiger
 1)3v3 -> pin 17 with +V
 2)GND pin 9 with GND
